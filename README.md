@@ -1,2 +1,2 @@
 # ML
-Machine Learning practice
+Machine Learning Projects and practice
